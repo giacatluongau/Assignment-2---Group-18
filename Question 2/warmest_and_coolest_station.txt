@@ -1,0 +1,4 @@
+Warmest Stations:
+MARBLE-BAR
+Coolest Stations:
+CABRAMURRA-SMHEA-AWS
